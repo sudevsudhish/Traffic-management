@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.bredogen.projectenv.settings.EnvFileSettings">
+    <option name="entries">
+      <map>
+        <entry key="trafficwebsite/.env" value="true" />
+      </map>
+    </option>
+    <option name="useEnvFile" value="true" />
+  </component>
+</project>
